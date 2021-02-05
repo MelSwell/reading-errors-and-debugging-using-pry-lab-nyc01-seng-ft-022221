@@ -9,6 +9,6 @@ def snake_it_up(string)
 end
 
 
-snake_it_up("Hello")
+puts snake_it_up("Hello")
 
-snake_it_up("seth")
+puts snake_it_up("seth")
